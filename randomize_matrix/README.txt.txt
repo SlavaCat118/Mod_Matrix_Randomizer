@@ -34,7 +34,3 @@ Tips for Use:
 - This is meant to be a source of inspiration and not a sound design factory. Generate smaller batches of presets and modify them to fit your liking.
 
 If you have any questions: https://forum.vital.audio/u/slavacat/
-If you like this or want to help create things like this, join the Vital Tools discord server: https://discord.gg/EDFum6zAUv it's a bit empty at the moment :|
-
-follow me:
-soundcloud.com/slavacat
